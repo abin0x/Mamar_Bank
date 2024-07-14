@@ -30,3 +30,4 @@ tzdata
 urllib3
 Werkzeug
 yarl
+dj_database_url 
